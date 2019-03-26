@@ -1,0 +1,6 @@
+body {
+  margin: 0 auto;
+  font-family: sans-serif;
+  background: linear-gradient(90deg, #95CCBA, #67BAA5,#00A08B, #007A6A, #0C504A);
+  display: cover;
+}
